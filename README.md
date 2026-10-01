@@ -1,6 +1,6 @@
 # Laborator de Programare
 
-În acest repository se găsesc materiale și resurse utile pentru **laboratorul de Programare**.
+Pe această pagină se găsesc materiale și resurse utile pentru **laboratorul de Programare**.
 
 ## 📚 Materiale de laborator
 
