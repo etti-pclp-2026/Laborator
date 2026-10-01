@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Wecolme to Poli\n";
+	cout<<"Welcolme to Poli\n";
 	return 0;
 }
 
