@@ -1,4 +1,4 @@
-# Laborator de Programare
+# PCLP1 2026 
 
 Pe această pagină se găsesc materiale și resurse utile pentru **laboratorul de Programare**.
 
@@ -16,7 +16,7 @@ Aici sunt disponibile materialele prezentate și utilizate în cadrul laboratoar
 
 ## 📝 Probleme suplimentare
 
-Repository-ul conține și **probleme suplimentare** pentru exersarea conceptelor prezentate la laborator. Acestea pot fi rezolvate individual pentru aprofundarea materiei și dezvoltarea abilităților de programare.
+Vom adăuga și **probleme suplimentare** pentru exersarea conceptelor prezentate la laborator. Acestea pot fi rezolvate individual pentru aprofundarea materiei și dezvoltarea abilităților de programare.
 
 ---
 
