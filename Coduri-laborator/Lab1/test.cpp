@@ -26,7 +26,7 @@ int main()
 	// următoare. Putem folosi cout pentru a afișa și variabile sau expresii, de exemplu
 	// cout << x; sau cout << "Suma este " << a + b << "\n";. Pentru o linie nouă putem
 	// folosi și endl, ca în cout << "Salut" << endl;, deși \n este de obicei suficient.
-	cout << "Wecolme to Poli\n";
+	cout << "Welcome to Poli\n";
 
 	// Instrucțiunea return încheie execuția funcției și transmite valoarea 0 către
 	// sistemul de operare. În cazul funcției main, return 0 indică faptul că programul
